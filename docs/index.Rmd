@@ -11,7 +11,7 @@ output:
 <div style="text-align: justify">
 
 
-# INFORMAÇÕES GERAIS
+# APRESENTAÇÃO DA DISCIPLINA 
 
 
 ## Sobre o Professor
@@ -236,7 +236,33 @@ knitr::kable(cronograma,
 ```
 
 
-A lógica é simples, após o vídeo de apresentação da disciplina 
+A lógica aqui também é simples, após esta primeira semana em que nos limitaremos a apresentação da 
+disciplina, iniciaremos todas as discussões teóricas. Em primeiro lugar, serão apresentados os 
+aspectos metodológicos da ciência econômica. Basicamente, a discussão sobre método de pesquisa em 
+economia serve para nivelar toda a discussão a frente, para explicar que a **Ciência Econômica** 
+não é pautada em opiniões e sim em modelos (a própria definição do que é um modelo no contexto das 
+ciências sociais é apresentada).
+
+
+Nas 5 semanas seguintes serão realizadas apresentações teóricas a respeito de modelos no contexto 
+da microeconomia, correspondendo a primeira parte da disciplina. Então, dedicaremos uma aula para 
+discussões gerais sobre todos os conteúdos vistos para, posteriormente, realizar a primeira prova 
+(cujo conteúdo é referente a tudo que já foi visto, isto é, método de pesquisa em economia e 
+microeconomia).
+
+
+Finalizada a primeira parte da disciplina, iniciaremos todas as discussões no âmbito da 
+macroeconomia. De fato, também serão dedicadas 5 semanas aos modelos macroeconômicos. Reparem que, 
+infelizmente, nesta segunda parte da disciplina não haverá uma aula dedicada a discussões gerais 
+pois não há calendário disponível para isso. Portanto, na segunda parte da disciplina é ainda mais 
+importante a participação nos encontros semanais. Assim, chegaremos à segunda prova relativa aos 
+conteúdos estritamente de macroeconomia.
+
+
+Quando relevante, na última semana será aplicada uma prova substitutiva com todos os conteúdos 
+vistos na disciplina. Vamos discutir a seguir com mais profundidade a formação da nota a partir 
+das avaliações.
+
 
 
 ## Cronograma das Avaliações
@@ -244,7 +270,7 @@ A lógica é simples, após o vídeo de apresentação da disciplina
 ## Materiais 
 
 
-# APRESENTAÇÃO DA DISCIPLINA 
+
 
 # MÉTODO DE PESQUISA EM ECONOMIA
 
