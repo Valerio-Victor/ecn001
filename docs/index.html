@@ -864,6 +864,230 @@ font-weight: bold;
 
 });
 </script>
+        <script>$(document).ready(function(){
+    if (typeof $('[data-toggle="tooltip"]').tooltip === 'function') {
+        $('[data-toggle="tooltip"]').tooltip();
+    }
+    if ($('[data-toggle="popover"]').popover === 'function') {
+        $('[data-toggle="popover"]').popover();
+    }
+});
+</script>
+        <style type="text/css">
+.lightable-minimal {
+border-collapse: separate;
+border-spacing: 16px 1px;
+width: 100%;
+margin-bottom: 10px;
+}
+.lightable-minimal td {
+margin-left: 5px;
+margin-right: 5px;
+}
+.lightable-minimal th {
+margin-left: 5px;
+margin-right: 5px;
+}
+.lightable-minimal thead tr:last-child th {
+border-bottom: 2px solid #00000050;
+empty-cells: hide;
+}
+.lightable-minimal tbody tr:first-child td {
+padding-top: 0.5em;
+}
+.lightable-minimal.lightable-hover tbody tr:hover {
+background-color: #f5f5f5;
+}
+.lightable-minimal.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-classic {
+border-top: 0.16em solid #111111;
+border-bottom: 0.16em solid #111111;
+width: 100%;
+margin-bottom: 10px;
+margin: 10px 5px;
+}
+.lightable-classic tfoot tr td {
+border: 0;
+}
+.lightable-classic tfoot tr:first-child td {
+border-top: 0.14em solid #111111;
+}
+.lightable-classic caption {
+color: #222222;
+}
+.lightable-classic td {
+padding-left: 5px;
+padding-right: 5px;
+color: #222222;
+}
+.lightable-classic th {
+padding-left: 5px;
+padding-right: 5px;
+font-weight: normal;
+color: #222222;
+}
+.lightable-classic thead tr:last-child th {
+border-bottom: 0.10em solid #111111;
+}
+.lightable-classic.lightable-hover tbody tr:hover {
+background-color: #F9EEC1;
+}
+.lightable-classic.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-classic-2 {
+border-top: 3px double #111111;
+border-bottom: 3px double #111111;
+width: 100%;
+margin-bottom: 10px;
+}
+.lightable-classic-2 tfoot tr td {
+border: 0;
+}
+.lightable-classic-2 tfoot tr:first-child td {
+border-top: 3px double #111111;
+}
+.lightable-classic-2 caption {
+color: #222222;
+}
+.lightable-classic-2 td {
+padding-left: 5px;
+padding-right: 5px;
+color: #222222;
+}
+.lightable-classic-2 th {
+padding-left: 5px;
+padding-right: 5px;
+font-weight: normal;
+color: #222222;
+}
+.lightable-classic-2 tbody tr:last-child td {
+border-bottom: 3px double #111111;
+}
+.lightable-classic-2 thead tr:last-child th {
+border-bottom: 1px solid #111111;
+}
+.lightable-classic-2.lightable-hover tbody tr:hover {
+background-color: #F9EEC1;
+}
+.lightable-classic-2.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-material {
+min-width: 100%;
+white-space: nowrap;
+table-layout: fixed;
+font-family: Roboto, sans-serif;
+border: 1px solid #EEE;
+border-collapse: collapse;
+margin-bottom: 10px;
+}
+.lightable-material tfoot tr td {
+border: 0;
+}
+.lightable-material tfoot tr:first-child td {
+border-top: 1px solid #EEE;
+}
+.lightable-material th {
+height: 56px;
+padding-left: 16px;
+padding-right: 16px;
+}
+.lightable-material td {
+height: 52px;
+padding-left: 16px;
+padding-right: 16px;
+border-top: 1px solid #eeeeee;
+}
+.lightable-material.lightable-hover tbody tr:hover {
+background-color: #f5f5f5;
+}
+.lightable-material.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-material.lightable-striped tbody td {
+border: 0;
+}
+.lightable-material.lightable-striped thead tr:last-child th {
+border-bottom: 1px solid #ddd;
+}
+.lightable-material-dark {
+min-width: 100%;
+white-space: nowrap;
+table-layout: fixed;
+font-family: Roboto, sans-serif;
+border: 1px solid #FFFFFF12;
+border-collapse: collapse;
+margin-bottom: 10px;
+background-color: #363640;
+}
+.lightable-material-dark tfoot tr td {
+border: 0;
+}
+.lightable-material-dark tfoot tr:first-child td {
+border-top: 1px solid #FFFFFF12;
+}
+.lightable-material-dark th {
+height: 56px;
+padding-left: 16px;
+padding-right: 16px;
+color: #FFFFFF60;
+}
+.lightable-material-dark td {
+height: 52px;
+padding-left: 16px;
+padding-right: 16px;
+color: #FFFFFF;
+border-top: 1px solid #FFFFFF12;
+}
+.lightable-material-dark.lightable-hover tbody tr:hover {
+background-color: #FFFFFF12;
+}
+.lightable-material-dark.lightable-striped tbody tr:nth-child(even) {
+background-color: #FFFFFF12;
+}
+.lightable-material-dark.lightable-striped tbody td {
+border: 0;
+}
+.lightable-material-dark.lightable-striped thead tr:last-child th {
+border-bottom: 1px solid #FFFFFF12;
+}
+.lightable-paper {
+width: 100%;
+margin-bottom: 10px;
+color: #444;
+}
+.lightable-paper tfoot tr td {
+border: 0;
+}
+.lightable-paper tfoot tr:first-child td {
+border-top: 1px solid #00000020;
+}
+.lightable-paper thead tr:last-child th {
+color: #666;
+vertical-align: bottom;
+border-bottom: 1px solid #00000020;
+line-height: 1.15em;
+padding: 10px 5px;
+}
+.lightable-paper td {
+vertical-align: middle;
+border-bottom: 1px solid #00000010;
+line-height: 1.15em;
+padding: 7px 5px;
+}
+.lightable-paper.lightable-hover tbody tr:hover {
+background-color: #F9EEC1;
+}
+.lightable-paper.lightable-striped tbody tr:nth-child(even) {
+background-color: #00000008;
+}
+.lightable-paper.lightable-striped tbody td {
+border: 0;
+}
+</style>
     
     
     
@@ -961,7 +1185,7 @@ font-weight: bold;
 	  	  <div id="header">
 	    <h1 class="title">INTRODUÇÃO À ECONOMIA (ECN001)</h1>
 	    	    	    	    <h4 class="author">Prof. Victor Valerio</h4>
-	    	    	    	    <h4 class="date">Última Atualização: 2021-04-25</h4>
+	    	    	    	    <h4 class="date">Última Atualização: 2021-04-26</h4>
 	    	  </div>
 	  	</div>
       </div>
@@ -976,6 +1200,17 @@ font-weight: bold;
           <ul>
           <li><a href="#informações-gerais">INFORMAÇÕES GERAIS</a></li>
           <li><a href="#apresentação-da-disciplina">APRESENTAÇÃO DA DISCIPLINA</a></li>
+          <li><a href="#método-de-pesquisa-em-economia">MÉTODO DE PESQUISA EM ECONOMIA</a></li>
+          <li><a href="#preferências-do-consumidor">PREFERÊNCIAS DO CONSUMIDOR</a></li>
+          <li><a href="#funções-utilidade-e-escolha-ótima">FUNÇÕES UTILIDADE E ESCOLHA ÓTIMA</a></li>
+          <li><a href="#otimização-da-produção-curto-prazo">OTIMIZAÇÃO DA PRODUÇÃO (CURTO PRAZO)</a></li>
+          <li><a href="#otimização-da-produção-longo-prazo">OTIMIZAÇÃO DA PRODUÇÃO (LONGO PRAZO)</a></li>
+          <li><a href="#equilíbrio-de-mercado">EQUILÍBRIO DE MERCADO</a></li>
+          <li><a href="#agregados-macroeconômicos-fluxo-circular-da-renda">AGREGADOS MACROECONÔMICOS (FLUXO CIRCULAR DA RENDA)</a></li>
+          <li><a href="#agregados-macroeconômicos-contabilidade-social">AGREGADOS MACROECONÔMICOS (CONTABILIDADE SOCIAL)</a></li>
+          <li><a href="#taxa-de-inflação">TAXA DE INFLAÇÃO</a></li>
+          <li><a href="#taxa-de-juros">TAXA DE JUROS</a></li>
+          <li><a href="#taxa-de-câmbio">TAXA DE CÂMBIO</a></li>
           </ul>
 	</div>
       </nav>
@@ -997,7 +1232,7 @@ font-weight: bold;
      <p>Olá, tudo bem? Sou o Prof. Victor Valerio e durante este semestre buscarei convidá-lo a enxergar o mundo a partir de uma perspectiva diferente. Para tanto, utilizaremos como lente uma ferramenta muito poderosa: a Ciência Econômica.</p>
      <p>Aos que não acreditam muito que esta disciplina pode ser relevante em sua formação técnica, vejamos o que diz um dos economistas mais célebres da história, J. M. Keynes (falaremos sobre ele mais tarde):</p>
      <blockquote>
-     <p>“as ideias de economistas e filósofos políticos ambos, quando estão certos ou errados são mais poderosas do que comumente entendido. […] Homens práticos, que acreditam ser isentos de qualquer influência intelectual são geralmente escravos de algum economista morto.”</p>
+     <p>“As ideias de economistas e filósofos políticos ambos, quando estão certos ou errados são mais poderosas do que comumente entendido. […] Homens práticos, que acreditam ser isentos de qualquer influência intelectual são geralmente escravos de algum economista morto.”</p>
      </blockquote>
      <p>Se ainda não está convencido, um último argumento, carreiras relacionadas à grande área de economia estão a cada dia demandando mais profissionais com robusta formação analítica, assim como vocês (estudantes da UNIFEI). Entenda este curso como uma das poucas possibilidades de contato com outras oportunidades de atuação (que remuneram muito bem, por sinal).</p>
      <p>Antes de iniciar a disciplina pode ser interessante me conhecer um pouco mais já que, infelizmente, não poderemos interagir pessoalmente. Assim, incluo algumas informações públicas sobre mim. Primeiro, em relação a minha formação, sou graduado em Ciências Econômicas pela Universidade Estadual Paulista “Júlio de Mesquita Filho” (UNESP) e tenho Mestrado e Doutorado em Engenharia de Produção pela Universidade Federal de Itajubá (UNIFEI). Ainda pode ser relevante destacar algumas das minhas atuações profissionais:</p>
@@ -1011,7 +1246,7 @@ font-weight: bold;
      <div id="organização-das-aulas" class="section level2">
      <h2>Organização das Aulas</h2>
      <p>Na minha apresentação comentei brevemente sobre o objetivo da disciplina, no entanto, é importante ser um pouco mais formal nessa especificação. Assim, pode-se afirmar que ECN001 tem por objetivo principal aproximar o estudante dos diversos temas ligados à Ciência Econômica, considerando as suas diversas áreas de atuação profissional.</p>
-     <p>Para atingir este objetivo durante o semestre, utilizaremos um formato que talvez não seja o ideal: <strong>as aulas serão estritamente expositivas a partir de vídeos já gravados</strong>. Não é o ideal pois a interação entre professores e estudantes é riquíssima, mais dinâmica, complementar (eu sei de tudo isso). Mas durante o RTE não é democrático realizar atividades síncronas <a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>, visto que, alguns estudantes não possuem acesso à internet em tempo integral e, tampouco, possuem acesso com a qualidade necessária para o desenvolvimento da aula. É importante avançar sem deixar ninguém para trás!</p>
+     <p>Para atingir este objetivo durante o semestre, utilizaremos um formato que talvez não seja o ideal: <strong>as aulas serão estritamente expositivas a partir de vídeos já gravados</strong>. Não é o ideal pois a interação entre professores e estudantes é riquíssima, mais dinâmica, complementar (eu sei de tudo isso). Mas durante o RTE não é democrático realizar atividades síncronas (<strong>Ponto de vista do presente e humilde professor!</strong>), visto que, alguns estudantes não possuem acesso à internet em tempo integral e, tampouco, possuem acesso com a qualidade necessária para o desenvolvimento da aula. É importante avançar sem deixar ninguém para trás!</p>
      <p>Aqui é importante acrescentar um aviso: Obviamente, eu não gravo diversos vídeos em cada semestre. Por isso, a maior parte dos vídeos foram gravados (e “aproveitados”) de semestres anteriores. Não estranhe caso seja comentada alguma data (ou ocorrência) fora do contexto da presente disciplina. Foque apenas nos conteúdos de cada vídeo.</p>
      <p>Os capítulos seguintes desta apostila possuem os diversos vídeos com a apresentação dos conteúdos referentes a cada semana do cronograma da disciplina. Cada capítulo corresponde a uma semana de aula, assim, em cada capítulo vocês encontrarão:</p>
      <ul>
@@ -1025,9 +1260,219 @@ font-weight: bold;
      </div>
      <div id="organização-dos-atendimentos" class="section level2">
      <h2>Organização dos Atendimentos</h2>
+     <p>Como afirmado acima, teremos encontros semanais já previamente agendados em cada um dos capítulos. Todos estes encontros serão realizados a partir da plataforma <strong>google meet</strong> e os links também serão disponibilizados em cada capítulo.</p>
+     <p>A lógica para determinação dos horários e dias das reuniões já previamente agendadas é simples: as reuniões iniciarão às 8:30h nos dias em que temos as nossas aulas. Cumpre ressaltar que eu estarei disponível até o fim da aula (9:45h) desde que haja interação, isto é, se em um prazo de 15 minutos ninguém entrar na reunião para interação, ela será automaticamente cancelada.</p>
+     <p>Amigos estudantes, não foram raras as vezes que nenhuma interação ocorreu no último semestre. Então, aproveito o momento para estimular a participação de todos. Podemos tentar aprofundar em aspectos teóricos, discutir possibilidades profissionais, discutir contextos econômicos atuais. Além disso, como estamos todos em isolamento e este momento é muito difícil, podemos conversar sobre generalidades.</p>
+     <p>Adicionalmente, coerência é o que liga o passado ao presente e é necessária para que haja fé no futuro. Se as aulas não são síncronas pelo argumento de dificuldade de acesso à internet, os atendimentos também devem ser mais flexíveis. Pensando nisso, cada estudante poderá solicitar reuniões particulares, basta enviar um e-mail para o endereço <a href="victor.dmv@unifei.edu.br"><strong>victor.dmv@unifei.edu.br</strong></a>. Mas acrescento, justificativas para a reunião deve ser adicionada no corpo do e-mail.</p>
+     <p>Há ainda mais um instrumento de interação, criei um grupo no whatsapp (acho o mais dinâmico de todos). Por favor, ingresse no grupo! Basta clicar neste <a href="https://chat.whatsapp.com/GFFjHxSqhHFIjl2Vj96PQr"><strong>link</strong></a>!!!!!</p>
      </div>
      <div id="cronograma-da-disciplina" class="section level2">
      <h2>Cronograma da Disciplina</h2>
+     <p>Toda a disciplina foi organizada em três frentes de conhecimento, visto que, sem maior rigor, cada uma destas frentes contemplam uma determinada área de atuação profissional do economista e, por se tratar de uma disciplina introdutória, todas devem ser tratadas de modo que o estudante tenha a maior quantidade de contatos possíveis. São elas:</p>
+     <ul>
+     <li><p><strong>ÁREA 1: MÉTODO DE PESQUISA EM ECONOMIA</strong></p></li>
+     <li><p><strong>ÁREA 2: MICROECONOMIA</strong></p></li>
+     <li><p><strong>ÁREA 3: MACROECONOMIA</strong></p></li>
+     </ul>
+     <p>Os temas discutidos em cada semana relacionados às respectivas áreas são apresenados no cronograma abaixo:</p>
+     <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+     <caption>
+     <center>
+     TABELA 1 - Cronograma da Disciplina
+     </center>
+     </caption>
+     <thead>
+     <tr>
+     <th style="text-align:center;">
+     AULA
+     </th>
+     <th style="text-align:left;">
+     ÁREA
+     </th>
+     <th style="text-align:left;">
+     CONTEÚDO
+     </th>
+     </tr>
+     </thead>
+     <tbody>
+     <tr>
+     <td style="text-align:center;">
+     1
+     </td>
+     <td style="text-align:left;">
+     —
+     </td>
+     <td style="text-align:left;">
+     Apresentação da Disciplina
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     2
+     </td>
+     <td style="text-align:left;">
+     Metodologia
+     </td>
+     <td style="text-align:left;">
+     Método de Pesquisa em Economia
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     3
+     </td>
+     <td style="text-align:left;">
+     Microeconomia
+     </td>
+     <td style="text-align:left;">
+     Preferências do Consumidor
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     4
+     </td>
+     <td style="text-align:left;">
+     Microeconomia
+     </td>
+     <td style="text-align:left;">
+     Funções Utilidade e Escolha Ótima
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     5
+     </td>
+     <td style="text-align:left;">
+     Microeconomia
+     </td>
+     <td style="text-align:left;">
+     Otimização da Produção (Curto Prazo)
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     6
+     </td>
+     <td style="text-align:left;">
+     Microeconomia
+     </td>
+     <td style="text-align:left;">
+     Otimização da Produção (Longo Prazo)
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     7
+     </td>
+     <td style="text-align:left;">
+     Microeconomia
+     </td>
+     <td style="text-align:left;">
+     Equilíbrio de Mercado
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     8
+     </td>
+     <td style="text-align:left;">
+     Metodologia e Microeconomia
+     </td>
+     <td style="text-align:left;">
+     Discussão sobre os Temas Tratados
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     9
+     </td>
+     <td style="text-align:left;">
+     Metodologia e Microeconomia
+     </td>
+     <td style="text-align:left;">
+     Prova 1 - Questionário SIGAA
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     10
+     </td>
+     <td style="text-align:left;">
+     Macroeconomia
+     </td>
+     <td style="text-align:left;">
+     Agregados Macroeconômicos (Fluxo Circular da Renda)
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     11
+     </td>
+     <td style="text-align:left;">
+     Macroeconomia
+     </td>
+     <td style="text-align:left;">
+     Agregados Macroeconômicos (Contabilidade Social)
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     12
+     </td>
+     <td style="text-align:left;">
+     Macroeconomia
+     </td>
+     <td style="text-align:left;">
+     Taxa de Inflação
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     13
+     </td>
+     <td style="text-align:left;">
+     Macroeconomia
+     </td>
+     <td style="text-align:left;">
+     Taxa de Juros
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     14
+     </td>
+     <td style="text-align:left;">
+     Macroeconomia
+     </td>
+     <td style="text-align:left;">
+     Taxa de Câmbio
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     15
+     </td>
+     <td style="text-align:left;">
+     Macroeconomia
+     </td>
+     <td style="text-align:left;">
+     Prova 2 - Questionário SIGAA
+     </td>
+     </tr>
+     <tr>
+     <td style="text-align:center;">
+     16
+     </td>
+     <td style="text-align:left;">
+     Metodologia, Microeconomia e Macroeconomia
+     </td>
+     <td style="text-align:left;">
+     Prova Substitutiva
+     </td>
+     </tr>
+     </tbody>
+     </table>
      </div>
      <div id="cronograma-das-avaliações" class="section level2">
      <h2>Cronograma das Avaliações</h2>
@@ -1038,13 +1483,39 @@ font-weight: bold;
      </div>
      <div id="apresentação-da-disciplina" class="section level1">
      <h1>APRESENTAÇÃO DA DISCIPLINA</h1>
-     <p>Informações da disciplina.</p>
      </div>
-     <div class="footnotes">
-     <hr />
-     <ol>
-     <li id="fn1"><p><strong>Ponto de vista do presente e humilde professor!</strong><a href="#fnref1" class="footnote-back">↩︎</a></p></li>
-     </ol>
+     <div id="método-de-pesquisa-em-economia" class="section level1">
+     <h1>MÉTODO DE PESQUISA EM ECONOMIA</h1>
+     </div>
+     <div id="preferências-do-consumidor" class="section level1">
+     <h1>PREFERÊNCIAS DO CONSUMIDOR</h1>
+     </div>
+     <div id="funções-utilidade-e-escolha-ótima" class="section level1">
+     <h1>FUNÇÕES UTILIDADE E ESCOLHA ÓTIMA</h1>
+     </div>
+     <div id="otimização-da-produção-curto-prazo" class="section level1">
+     <h1>OTIMIZAÇÃO DA PRODUÇÃO (CURTO PRAZO)</h1>
+     </div>
+     <div id="otimização-da-produção-longo-prazo" class="section level1">
+     <h1>OTIMIZAÇÃO DA PRODUÇÃO (LONGO PRAZO)</h1>
+     </div>
+     <div id="equilíbrio-de-mercado" class="section level1">
+     <h1>EQUILÍBRIO DE MERCADO</h1>
+     </div>
+     <div id="agregados-macroeconômicos-fluxo-circular-da-renda" class="section level1">
+     <h1>AGREGADOS MACROECONÔMICOS (FLUXO CIRCULAR DA RENDA)</h1>
+     </div>
+     <div id="agregados-macroeconômicos-contabilidade-social" class="section level1">
+     <h1>AGREGADOS MACROECONÔMICOS (CONTABILIDADE SOCIAL)</h1>
+     </div>
+     <div id="taxa-de-inflação" class="section level1">
+     <h1>TAXA DE INFLAÇÃO</h1>
+     </div>
+     <div id="taxa-de-juros" class="section level1">
+     <h1>TAXA DE JUROS</h1>
+     </div>
+     <div id="taxa-de-câmbio" class="section level1">
+     <h1>TAXA DE CÂMBIO</h1>
      </div>
 	  </div>
 
