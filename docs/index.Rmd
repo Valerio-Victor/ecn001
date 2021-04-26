@@ -264,12 +264,99 @@ vistos na disciplina. Vamos discutir a seguir com mais profundidade a formação
 das avaliações.
 
 
-
 ## Cronograma das Avaliações
+
+
+As avaliações deverão contemplar todo o conteúdo tratado no decorrer do semestre, mais uma vez, 
+abrangendo os temas ligados às áreas de método de pesquisa em economia, microeconomia e 
+macroeconomia. 
+
+
+Em associação, vocês serão avaliados a partir de dois instrumentos: questionários com frequência 
+semanal restritos ao respectivo conteúdo trabalhado em cada semana do nosso cronograma e, além 
+disso, duas provas (que também serão realizadas a partir de questionários no SIGAA).
+
+
+Aderente ao nosso cronograma, as datas das provas são apresentadas na tabela abaixo:
+
+```{r , results = 'asis', echo = F, warning = F, message = F, error = F, fig.align ='center', out.width = '100%'}
+
+
+library(magrittr)
+
+
+library(kableExtra)
+
+
+cronograma <- data.frame(
+  
+  
+  TURMA = c('T01 - Segunda', 'T01 - Segunda', 'T07 - Sexta', 'T07 - Sexta'),
+  
+  REFERÊNCIA = c('Prova 1', 'Prova 2', 'Prova 1', 'Prova 2'),
+  
+  DATA = c('21/06', '02/08', '25/06', '06/08'))
+
+
+knitr::kable(cronograma, 
+             
+             caption = '<center>TABELA 2 - Cronograma das Avaliações</center>', 
+             
+             escape = FALSE,
+    
+             format = 'html',
+             
+             align = c('l', 'c', 'c')) %>%
+  
+  kable_styling(bootstrap_options = 'striped')
+  
+
+
+
+
+```
+
+
+Por fim, as equações abaixo exibem a formação das notas ao longo da disciplina. Em resumo, a soma
+das atividades semanais representam 20% da nota, os outros 80% referem-se a realização das provas.
+
+$$ Nota_1  = 0,8 Prova_1 + 0,2 Questionários_{parte 1}$$
+$$ Nota_2  = 0,8 Prova 2 + 0,2 Questionários_{parte 2}$$
+$$ Nota_{Final}  = (Nota_1 + Nota_2)/2$$
+
+Aqui vai um último aviso, devo destacar, sempre recorrente aos finais dos semestres. As provas 
+substitutivas serão organizadas a partir de todo o conteúdo trabalho na disciplina. Se organize 
+para que a realização de mais esta avaliação não seja necessária.
+
 
 ## Materiais 
 
+Em primeiro lugar, como maior preocupação dos estudantes, todos os slides utilizados nos vídeos são disponibilizados neste documento, alocados no respectivo conteúdo. Sabemos que eles representam resumos do conteúdo tratado. Ao final de cada slide são apresentadas as referências textuais utilizadas (todas elas estão na biblioteca, mas durante o RTE, isso representa um problema para a nossa disciplina. Quando sentir que é necessário, entre em contato por whatsapp para discutirmos a disponibilização dos textos).
 
+
+Todos os textos são encontrados nos seguintes livros:
+
+
+- **METODOLOGIA**: MANKIW, N. G. Introdução à Economia. São Paulo: Cengage Learning, 2009;
+
+- **MICROECONOMIA**: VARIAN, H. R. Microeconomia: Uma abordagem moderna. Rio de Janeiro: Elsevier, 2012;
+
+- **MACROECONOMIA**: BLANCHARD, O. Macroeconomia: Teoria e Política Econômica. São Paulo: Pearson Prentice Hall.
+
+
+## Próximo Encontro
+
+
+Não deixe de participar do nosso próximo encontro:
+
+- **DIA:** 03/05
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** https://meet.google.com/czn-zsys-hmo
+
+
+Até lá!
 
 
 # MÉTODO DE PESQUISA EM ECONOMIA
