@@ -1,0 +1,72 @@
+---
+title: "APOSTILA DE INTRODUÇÃO À ECONOMIA (ECN001)"
+author: "Prof. Victor Valerio"
+date: "Última Atualização: `r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    highlight: kate
+---
+
+
+```{r setup, include=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+
+# INFORMAÇÕES GERAIS
+
+
+## Sobre o Professor
+
+
+Olá, tudo bem? Sou o Prof. Victor Valerio e durante este semestre buscarei convidá-lo a enxergar o 
+mundo a partir de uma perspectiva diferente. Para tanto, utilizaremos como lente uma ferramenta muito 
+poderosa: a Ciência Econômica. 
+
+
+Aos que não acreditam muito que esta disciplina pode ser relevante em sua formação técnica, vejamos 
+o que diz um dos economistas mais célebres da história, J. M. Keynes (falaremos sobre ele mais tarde):
+
+
+> “as ideias de economistas e filósofos políticos ambos, quando estão certos ou errados são mais 
+> poderosas do que comumente entendido. [...] Homens práticos, que acreditam ser isentos de qualquer 
+> influência intelectual são geralmente escravos de algum economista morto.”
+
+
+Se ainda não está convencido, um último argumento, carreiras relacionadas à grande área de economia 
+estão a cada dia demandando mais profissionais com robusta formação analítica, assim como vocês 
+(estudantes da UNIFEI). Entenda este curso como uma das poucas possibilidades de contato com outras 
+oportunidades de atuação (que remuneram muito bem, por sinal).
+
+
+Antes de iniciar a disciplina pode ser interessante me conhecer um pouco mais já que, infelizmente, 
+não poderemos interagir pessoalmente. Assim, incluo algumas informações públicas sobre mim. Primeiro,
+em relação a minha formação, sou graduado em Ciências Econômicas pela Universidade Estadual Paulista
+“Júlio de Mesquita Filho” (UNESP) e tenho Mestrado e Doutorado em Engenharia de Produção pela 
+Universidade Federal de Itajubá (UNIFEI). Ainda pode ser relevante destacar algumas das minhas 
+atuações profissionais:
+
+- **DOCÊNCIA**: Economia (ECN001), Engenharia Econômica (EPR502), 	Macroeconomia (ADM022), 
+Matemática Financeira (ADM020), Análise 	de 	Investimento com Risco (ADM013);
+
+- **PESQUISA**: Análise de Eficiência e Produtividade do Mercado de 	Crédito Nacional, Análise de 
+Eficiência e Produtividade de Projetos de 	Energia 	Renovável, Viabilidade Econômica de Projetos 
+de Energia 	Renovável;
+
+- **EXTENSÃO**: Coleta Seletiva na Cidade de Itajubá; Projetos de 	Energia 	Fotovoltaica para a UNIFEI.
+
+
+
+
