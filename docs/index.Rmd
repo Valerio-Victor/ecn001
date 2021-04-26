@@ -1,9 +1,9 @@
 ---
-title: "APOSTILA DE INTRODUÇÃO À ECONOMIA (ECN001)"
+title: "INTRODUÇÃO À ECONOMIA (ECN001)"
 author: "Prof. Victor Valerio"
 date: "Última Atualização: `r Sys.Date()`"
 output:
-  rmdformats::readthedown:
+  rmdformats::material:
     highlight: kate
 ---
 
@@ -14,7 +14,7 @@ output:
 # INFORMAÇÕES GERAIS
 
 
- Sobre o Professor
+## Sobre o Professor
 
 
 Olá, tudo bem? Sou o Prof. Victor Valerio e durante este semestre buscarei convidá-lo a enxergar o 
@@ -59,7 +59,7 @@ Feita esta apresentação inicial (breve monólogo), vamos começar a discutir a
 ECN001 ao longo do semestre.
 
 
- Organização das Aulas
+## Organização das Aulas
 
 
 Na minha apresentação comentei brevemente sobre o objetivo da disciplina, no entanto, é
@@ -107,16 +107,16 @@ computada a partir de sua realização (as atividades também irão compor a not
 isso a seguir). 
 
 
- Organização dos Atendimentos
+## Organização dos Atendimentos
 
- Cronograma da Disciplina 
+## Cronograma da Disciplina 
 
- Cronograma das Avaliações
+## Cronograma das Avaliações
 
- Materiais 
+## Materiais 
 
 
- APRESENTAÇÃO DA DISCIPLINA 
+# APRESENTAÇÃO DA DISCIPLINA 
 
 Informações da disciplina.
 
