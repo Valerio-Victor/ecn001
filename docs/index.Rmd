@@ -8,6 +8,36 @@ output:
 ---
 
 
+```{css, echo = FALSE}
+
+.header-panel {
+    background-color: #22b676;
+    min-height: 144px;
+    position: relative;
+    z-index: 3;
+}
+
+
+a, a:focus, a:hover {
+    color: #22b676;
+}
+
+.pages h1 {
+    color: #22b676;
+}
+
+.pages h2 {
+    color: #22b676;
+}
+
+.menu ul li a {
+    color: #22b676;
+    text-decoration: none;
+}
+
+```
+
+
 <div style="text-align: justify">
 
 
@@ -356,7 +386,7 @@ Não deixe de participar do nosso próximo encontro:
 
 - **HORÁRIO:** 08:30h
 
-- **LINK:** https://meet.google.com/czn-zsys-hmo
+- **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
 **TURMA 07 (SEXTA-FEIRA)**
 
@@ -364,13 +394,85 @@ Não deixe de participar do nosso próximo encontro:
 
 - **HORÁRIO:** 08:30h
 
-- **LINK:** https://meet.google.com/ifw-rdkg-tis
+- **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
 
 Até lá!
 
 
 # MÉTODO DE PESQUISA EM ECONOMIA
+
+
+## Objetivo da Aula
+
+
+Esta aula foi estruturada com a finalidade de realizar uma apresentação sobre o método de pesquisa 
+em economia, correspondendo à segunda aula de Introdução à Economia (ECN001) ao longo do primeiro 
+semestre de 2021 na Universidade Federal de Itajubá (no âmbito do Regime de Tratamento 
+Excepcional - RTE).
+
+
+## Principais Conceitos
+
+
+Para atender ao objetivo traçado são realizadas uma série de definições introdutórias sobre o tema, 
+podendo se destacar os seguintes conceitos:
+
+
+- **Modelo Hipotético-Dedutivo**;
+
+- **Economia Positiva**;
+
+- **Economia Normativa**.
+
+
+## Disponibilização de Materiais
+
+
+Para assistir a aula basta clicar no vídeo abaixo:
+
+
+```{r , echo = FALSE, out.width='100%', fig.align='center'}
+
+library("htmltools")
+library("vembedr")
+
+embed <- embed_url('https://www.youtube.com/watch?v=fQg66Daz3cQ')
+
+use_bs_responsive(embed)
+
+```
+
+
+Para ter acesso aos slides utilizados na videoaula basta clicar 
+[**AQUI**](https://1drv.ms/p/s!At0yTgXpzJkLguIwJS9YxyEktlTcVg?e=cDmrbs)
+
+
+## Próximo Encontro
+
+
+Não deixe de participar do nosso próximo encontro:
+
+
+**TURMA 01 (SEGUNDA-FEIRA)**
+
+- **DIA:** 10/05
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** **https://meet.google.com/czn-zsys-hmo**
+
+**TURMA 07 (SEXTA-FEIRA)**
+
+- **DIA:** 14/05
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** **https://meet.google.com/ifw-rdkg-tis**
+
+
+Até lá!
+
 
 # PREFERÊNCIAS DO CONSUMIDOR
 
