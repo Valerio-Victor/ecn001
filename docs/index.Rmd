@@ -556,10 +556,85 @@ Não deixe de participar do nosso próximo encontro:
 Até lá!
 
 
-
-
-
 # FUNÇÕES UTILIDADE E ESCOLHA ÓTIMA
+
+
+## Objetivo da Aula
+
+Esta aula têm por objetivo geral fornecer ao estudante um primeiro contato com a modelagem econômica,
+mais especificamente, serão estruturados os conceitos base para representação das decisões de consumo
+de um indivíduo. 
+
+
+## Principais Conceitos
+
+Para atender aos objetivos traçados são realizadas uma série de definições introdutórias sobre o tema,
+podendo se destacar os conceitos:
+
+
+- **Função Utilidade Composta**;
+
+- **Utilidades Marginais**;
+
+- **Curvas de Indiferença**;
+
+- **Taxa Marginal de Substituição**;
+
+- **Funções Utilidade (propriedades especiais)**;
+
+- **Restrição Orçamentária**;
+
+- **Escolha Ótima**.
+
+
+## Disponibilização de Materiais
+
+
+Para assistir a aula basta clicar no vídeo abaixo:
+
+
+```{r , echo = FALSE, out.width='100%', fig.align='center'}
+
+library("htmltools")
+library("vembedr")
+
+embed <- embed_url('https://www.youtube.com/watch?v=WITsxKUOBgE&list=PLZlH--CvrShaS4kW1Ft2PUrP1k2xa2IEL&index=4')
+
+use_bs_responsive(embed)
+
+```
+
+
+Para ter acesso aos slides utilizados na videoaula basta clicar na
+[**PARTE 1**](https://onedrive.live.com/view.aspx?resid=B99CCE9054E32DD!44520&ithint=file%2cpptx&authkey=!AHN-nRYsKtD7ZjA)
+e depois na 
+[**PARTE 2**](https://onedrive.live.com/view.aspx?resid=B99CCE9054E32DD!44521&ithint=file%2cpptx&authkey=!AAwps5HBc3Hbh2w).
+
+
+## Próximo Encontro
+
+
+Não deixe de participar do nosso próximo encontro:
+
+
+**TURMA 01 (SEGUNDA-FEIRA)**
+
+- **DIA:** 24/05
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** **https://meet.google.com/czn-zsys-hmo**
+
+**TURMA 07 (SEXTA-FEIRA)**
+
+- **DIA:** 28/05
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** **https://meet.google.com/ifw-rdkg-tis**
+
+
+Até lá!
 
 # OTIMIZAÇÃO DA PRODUÇÃO (CURTO PRAZO)
 
