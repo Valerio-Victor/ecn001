@@ -638,6 +638,80 @@ Até lá!
 
 # OTIMIZAÇÃO DA PRODUÇÃO (CURTO PRAZO)
 
+
+## Objetivo da Aula
+
+Esta aula têm por objetivo geral realizar as definições necessárias para  compreensão do segundo 
+modelo microeconômico (produção ótima no curto prazo). 
+
+
+## Principais Conceitos
+
+Para atender aos objetivos traçados são realizadas uma série de definições introdutórias sobre o tema,
+podendo se destacar os conceitos:
+
+- **Processo de Produção**;
+
+- **Fatores de Produção (Trabalho e Capital)**;
+
+- **Função de Produção (diferença ente curto e longo prazo)**;
+
+- **Indicadores de Desempenho**; 
+
+- **Produto Marginal do Trabalho**;
+
+- **Produto Médio do Trabalho**;
+
+- **Estratégia Ótima de Curto Prazo**.
+
+
+## Disponibilização de Materiais
+
+
+Para assistir a aula basta clicar no vídeo abaixo:
+
+
+```{r , echo = FALSE, out.width='100%', fig.align='center'}
+
+library("htmltools")
+library("vembedr")
+
+embed <- embed_url('https://youtu.be/tKEHhDBuLIs')
+
+use_bs_responsive(embed)
+
+```
+
+
+Para ter acesso aos slides utilizados na videoaula basta clicar 
+[**AQUI**](https://1drv.ms/p/s!At0yTgXpzJkLgt0-5ks8ETv7nt0D3g?e=7BGLAG)
+
+
+## Próximo Encontro
+
+
+Não deixe de participar do nosso próximo encontro:
+
+
+**TURMA 01 (SEGUNDA-FEIRA)**
+
+- **DIA:** 31/05
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** **https://meet.google.com/czn-zsys-hmo**
+
+**TURMA 07 (SEXTA-FEIRA)**
+
+- **DIA:** 04/06
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** **https://meet.google.com/ifw-rdkg-tis**
+
+
+Até lá!
+
 # OTIMIZAÇÃO DA PRODUÇÃO (LONGO PRAZO)
 
 # EQUILÍBRIO DE MERCADO
