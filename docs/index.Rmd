@@ -429,23 +429,10 @@ podendo se destacar os seguintes conceitos:
 ## Disponibilização de Materiais
 
 
-Para assistir a aula basta clicar no vídeo abaixo:
+- [**VIDEOAULA - MÉTODO DE PESQUISA EM ECONOMIA**](https://www.youtube.com/watch?v=fQg66Daz3cQ);
 
 
-```{r , echo = FALSE, out.width='100%', fig.align='center'}
-
-library("htmltools")
-library("vembedr")
-
-embed <- embed_url('https://www.youtube.com/watch?v=fQg66Daz3cQ')
-
-use_bs_responsive(embed)
-
-```
-
-
-Para ter acesso aos slides utilizados na videoaula basta clicar 
-[**AQUI**](https://1drv.ms/p/s!At0yTgXpzJkLguIwJS9YxyEktlTcVg?e=cDmrbs)
+- [**SLIDES**](https://1drv.ms/p/s!At0yTgXpzJkLguIwJS9YxyEktlTcVg?e=cDmrbs)
 
 
 ## Próximo Encontro
@@ -511,23 +498,10 @@ podendo se destacar os conceitos:
 ## Disponibilização de Materiais
 
 
-Para assistir a aula basta clicar no vídeo abaixo:
+- [**VIDEOAULA - PREFERÊNCIAS DO CONSUMIDOR**](https://www.youtube.com/watch?v=NrToSmAUmmc);
 
 
-```{r , echo = FALSE, out.width='100%', fig.align='center'}
-
-library("htmltools")
-library("vembedr")
-
-embed <- embed_url('https://www.youtube.com/watch?v=NrToSmAUmmc')
-
-use_bs_responsive(embed)
-
-```
-
-
-Para ter acesso aos slides utilizados na videoaula basta clicar 
-[**AQUI**](https://1drv.ms/p/s!At0yTgXpzJkLgtd0Sc344b3a8wvLlQ?e=JLfM3M)
+- [**SLIDES - PARTE 1**](https://1drv.ms/p/s!At0yTgXpzJkLgtd0Sc344b3a8wvLlQ?e=JLfM3M)
 
 
 ## Próximo Encontro
@@ -590,25 +564,13 @@ podendo se destacar os conceitos:
 ## Disponibilização de Materiais
 
 
-Para assistir a aula basta clicar no vídeo abaixo:
+- [**VIDEOAULA - ESCOLHA ÓTIMA**](https://youtu.be/WITsxKUOBgE);
 
 
-```{r , echo = FALSE, out.width='100%', fig.align='center'}
-
-library("htmltools")
-library("vembedr")
-
-embed <- embed_url('https://www.youtube.com/watch?v=WITsxKUOBgE&list=PLZlH--CvrShaS4kW1Ft2PUrP1k2xa2IEL&index=4')
-
-use_bs_responsive(embed)
-
-```
+- [**SLIDES - PARTE 1**](https://onedrive.live.com/view.aspx?resid=B99CCE9054E32DD!44520&ithint=file%2cpptx&authkey=!AHN-nRYsKtD7ZjA)
 
 
-Para ter acesso aos slides utilizados na videoaula basta clicar na
-[**PARTE 1**](https://onedrive.live.com/view.aspx?resid=B99CCE9054E32DD!44520&ithint=file%2cpptx&authkey=!AHN-nRYsKtD7ZjA)
-e depois na 
-[**PARTE 2**](https://onedrive.live.com/view.aspx?resid=B99CCE9054E32DD!44521&ithint=file%2cpptx&authkey=!AAwps5HBc3Hbh2w).
+- [**SLIDES -  PARTE 2**](https://onedrive.live.com/view.aspx?resid=B99CCE9054E32DD!44521&ithint=file%2cpptx&authkey=!AAwps5HBc3Hbh2w)
 
 
 ## Próximo Encontro
@@ -668,23 +630,10 @@ podendo se destacar os conceitos:
 ## Disponibilização de Materiais
 
 
-Para assistir a aula basta clicar no vídeo abaixo:
+- [**VIDEOAULA - OTIMIZAÇÃO DA PRODUÇÃO (CURTO PRAZO)**](https://youtu.be/NrToSmAUmmc);
 
 
-```{r , echo = FALSE, out.width='100%', fig.align='center'}
-
-library("htmltools")
-library("vembedr")
-
-embed <- embed_url('https://youtu.be/NrToSmAUmmc')
-
-use_bs_responsive(embed)
-
-```
-
-
-Para ter acesso aos slides utilizados na videoaula basta clicar 
-[**AQUI**](https://1drv.ms/p/s!At0yTgXpzJkLgt0-5ks8ETv7nt0D3g?e=7BGLAG)
+- [**SLIDES**](https://1drv.ms/p/s!At0yTgXpzJkLgt0-5ks8ETv7nt0D3g?e=7BGLAG)
 
 
 ## Próximo Encontro
@@ -742,35 +691,10 @@ podendo se destacar os conceitos:
 ## Disponibilização de Materiais
 
 
-Para assistir a aula basta clicar no vídeo abaixo:
+- [**VIDEOAULA - OTIMIZAÇÃO DA PRODUÇÃO (LONGO PRAZO)**](https://www.youtube.com/watch?v=XuCkKgMojpk);
 
 
-```{r , echo = FALSE, out.width='100%', fig.align='center'}
-
-
-library("htmltools")
-library("vembedr")
-
-embed <- embed_url('https://youtu.be/NrToSmAUmmc')
-
-use_bs_responsive(embed)
-
-
-```
-
-
-Para ter acesso aos slides utilizados na videoaula basta clicar 
-[**AQUI**](https://1drv.ms/p/s!At0yTgXpzJkLgt0-5ks8ETv7nt0D3g?e=7BGLAG)
-
-
-
-
-
-![figura.png](https://www.youtube.com/watch?v=xyz)
-
-
-
-
+- [**SLIDES**](https://1drv.ms/p/s!At0yTgXpzJkLgvIpGzwi-LAO4xPMfA?e=sgoPos)
 
 
 ## Próximo Encontro
