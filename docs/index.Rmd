@@ -805,7 +805,8 @@ economia de um país, sendo que, este funcionamento da economia de um país é c
 ## Principais Conceitos
 
 
-Para atender aos objetivos traçados são realizadas uma série de definições introdutórias sobre o tema, podendo se destacar os conceitos:
+Para atender aos objetivos traçados são realizadas uma série de definições introdutórias sobre o 
+tema, podendo se destacar os conceitos:
 
 - **Produto Agregado**;
 
@@ -823,7 +824,7 @@ Para atender aos objetivos traçados são realizadas uma série de definições 
 ## Disponibilização de Materiais
 
 
-- [**VIDEOAULA - EQUILÍBRIO DE MERCADO**](https://youtu.be/Suz2oBsnMwE);
+- [**VIDEOAULA - AGREGADOS MACROECONÔMICOS (FLUXO CIRCULAR DE RENDA)**](https://youtu.be/Suz2oBsnMwE);
 
 
 - [**SLIDES**](https://1drv.ms/p/s!At0yTgXpzJkLg4YyTGPyb7zcLMQGIQ?e=XPArmj)
@@ -855,6 +856,98 @@ Não deixe de participar do nosso próximo encontro:
 Até lá!
  
 # AGREGADOS MACROECONÔMICOS (CONTABILIDADE SOCIAL)
+
+## Objetivo da Aula
+
+
+Esta aula têm por objetivo geral aproximar o aluno do estudo prático do funcionamento da economia de
+uma país (dinâmica macroeconômica) a partir dos conceitos estruturados no fluxo circular da renda.
+
+
+## Principais Conceitos
+
+
+Para atender aos objetivos traçados são realizadas uma série de definições introdutórias sobre o 
+tema, podendo se destacar os conceitos:
+
+- **PARTE I**:
+
+  - **Produto Agregado**;
+
+  - **Produto Interno Bruto (PIB)**;
+
+  - **Renda Nacional Bruta (RNB)**;
+
+  - **Renda Líquida Enviada ao Exterior (RLEE)**;
+
+  - **Renda Líquida Recebida do Exterior (RLRE)**;
+
+  - **Transferências Unilaterais Recebidas (TUR)**;
+
+  - **Renda Nacional Disponível Bruta (RNDB)**;
+
+  - **Renda Líquida do Governo (RLG)**;
+  
+  - **Renda Privada Disponível (RPD)**.
+  
+- **PARTE II**:
+
+  - **Consumo das Famílias (C)**;
+
+  - **Investimento das Empresas (I)**;
+
+  - **Gastos do Governo (G)**;
+
+  - **Exportações (X)**;
+
+  - **Importações (M)**;
+
+  - **Poupança das Famílias (S)**;
+
+  - **Poupança Pública**;
+
+  - **Poupança do Setor Externo**.
+
+
+## Disponibilização de Materiais
+
+- **PARTE I**:
+
+- [**VIDEOAULA - AGREGADOS MACROECONÔMICOS (CONTABILIDADE SOCIAL)**](https://youtu.be/a64faeCC8p8).
+
+- **PARTE II**:
+
+- [**VIDEOAULA - AGREGADOS MACROECONÔMICOS (CONTABILIDADE SOCIAL)**](https://youtu.be/JU9SYfXnjz0).
+
+- **PARTE I e PARTE II**:
+
+- [**SLIDES**](https://1drv.ms/p/s!At0yTgXpzJkLgtt1cf5cbVDQkaVaPw?e=C9Zau5).
+
+
+## Próximo Encontro
+
+
+Não deixe de participar do nosso próximo encontro:
+
+
+**TURMA 01 (SEGUNDA-FEIRA)**
+
+- **DIA:** 05/07
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** **https://meet.google.com/czn-zsys-hmo**
+
+**TURMA 07 (SEXTA-FEIRA)**
+
+- **DIA:** 09/07
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** **https://meet.google.com/ifw-rdkg-tis**
+
+
+Até lá!
 
 # TAXA DE INFLAÇÃO
 
