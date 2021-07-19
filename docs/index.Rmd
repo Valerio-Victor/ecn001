@@ -963,7 +963,10 @@ Esta aula têm por objetivo geral fornecer ao estudante um primeiro contato com 
 
 
 Para atender aos objetivos traçados são realizadas uma série de definições introdutórias sobre o 
-tema, podendo se destacar os conceitos: - Séries Temporais;
+tema, podendo se destacar os conceitos: 
+
+
+- **Séries Temporais**;
 
 - **Números Índices**;
 
@@ -1013,6 +1016,65 @@ Até lá!
 
 
 # TAXA DE JUROS
+
+## Objetivo da Aula
+
+
+Esta aula têm por objetivo geral fornecer ao estudante um primeiro contato com as principais taxas de 
+juros (em especial, SELIC e DI) e seus impactos na economia.
+
+
+## Principais Conceitos
+
+
+Para atender aos objetivos traçados são realizadas uma série de definições introdutórias sobre o 
+tema, podendo se destacar os conceitos: 
+
+
+- **Capitalização Simples e Capitalização Composta**;
+
+- **Taxa Básica de Juros (SELIC)**;
+
+- **Taxa DI**;
+
+- **SPREAD bancário**;
+
+- **Relação com Inflação**.
+
+
+## Disponibilização de Materiais
+
+
+- [**VIDEOAULA - TAXA DE JUROS**](https://youtu.be/yOo2-m9hngI);
+
+
+- [**SLIDES**](https://1drv.ms/p/s!At0yTgXpzJkLgqZsdMGhAOfVhNTmbw?e=ULvk2i)
+
+
+## Próximo Encontro
+
+
+Não deixe de participar do nosso próximo encontro:
+
+
+**TURMA 01 (SEGUNDA-FEIRA)**
+
+- **DIA:** 26/07
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** **https://meet.google.com/czn-zsys-hmo**
+
+**TURMA 07 (SEXTA-FEIRA)**
+
+- **DIA:** 
+
+- **HORÁRIO:** 
+
+- **LINK:** **https://meet.google.com/ifw-rdkg-tis**
+
+
+Até lá!
 
 # TAXA DE CÂMBIO
 
