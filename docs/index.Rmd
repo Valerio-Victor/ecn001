@@ -41,13 +41,13 @@ a, a:focus, a:hover {
 <div style="text-align: justify">
 
 
-# APRESENTAÇÃO DA DISCIPLINA 
+# 01 - APRESENTAÇÃO DA DISCIPLINA 
 
 
 ## Sobre o Professor
 
 
-Olá, tudo bem? Sou o Prof. Victor Valerio e durante este semestre buscarei convidá-lo a enxergar o 
+Olá, tudo bem? Sou o Prof. Victor Valerio e durante este semestre irei convidá-lo a enxergar o 
 mundo a partir de uma perspectiva diferente. Para tanto, utilizaremos como lente uma ferramenta muito 
 poderosa: a Ciência Econômica. 
 
@@ -79,7 +79,7 @@ Matemática Financeira (ADM020), Análise 	de 	Investimento com Risco (ADM013);
 
 - **PESQUISA**: Análise de Eficiência e Produtividade do Mercado de 	Crédito Nacional, Análise de 
 Eficiência e Produtividade de Projetos de 	Energia 	Renovável, Viabilidade Econômica de Projetos 
-de Energia 	Renovável;
+de Energia 	Renovável, Ciência de Dados;
 
 - **EXTENSÃO**: Coleta Seletiva na Cidade de Itajubá; Projetos de 	Energia 	Fotovoltaica para a 
 UNIFEI.
@@ -146,13 +146,12 @@ Todos estes encontros serão realizados a partir da plataforma **google meet** e
 disponibilizados em cada capítulo. 
 
 
-A lógica para determinação dos horários e dias das reuniões já previamente agendadas é simples: as 
-reuniões iniciarão às 8:30h nos dias em que temos as nossas aulas. Cumpre ressaltar que eu estarei 
-disponível até o fim da aula (9:45h) desde que haja interação, isto é, se em um prazo de 15 minutos 
+O início dos encontros já estão disponibilizados neste documento, uumpre ressaltar ainda que eu estarei 
+disponível até o fim de cada horário desde que haja interação, isto é, se em um prazo de 15 minutos 
 ninguém entrar na reunião para interação, ela será automaticamente cancelada.
 
 
-Amigos estudantes, não foram raras as vezes que nenhuma interação ocorreu no último semestre. Então, 
+Estudantes, não foram raras as vezes que nenhuma interação ocorreu no último semestre. Então, 
 aproveito o momento para estimular a participação de todos. Podemos tentar aprofundar em aspectos 
 teóricos, discutir possibilidades profissionais, discutir contextos econômicos atuais. Além disso, 
 como estamos todos em isolamento e este momento é muito difícil, podemos conversar sobre generalidades. 
@@ -321,11 +320,11 @@ library(kableExtra)
 cronograma <- data.frame(
   
   
-  TURMA = c('T01 - Segunda', 'T01 - Segunda', 'T07 - Sexta', 'T07 - Sexta'),
+  TURMA = c('T03 - Sexta (manhã)', 'T04 - Sexta (tarde)', 'T03 - Sexta (manhã)', 'T04 - Sexta (tarde)'),
   
-  REFERÊNCIA = c('Prova 1', 'Prova 2', 'Prova 1', 'Prova 2'),
+  REFERÊNCIA = c('Prova 1', 'Prova 1', 'Prova 2', 'Prova 2'),
   
-  DATA = c('21/06', '02/08', '25/06', '06/08'))
+  DATA = c('22/10', '22/10', '03/12', '03/12'))
 
 
 knitr::kable(cronograma, 
@@ -380,19 +379,19 @@ Todos os textos são encontrados nos seguintes livros:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 03/05
+- **DIA:** 10/09
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 07/05
+- **DIA:** 10/09
 
-- **HORÁRIO:** 08:30h
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
@@ -400,7 +399,7 @@ Não deixe de participar do nosso próximo encontro:
 Até lá!
 
 
-# MÉTODO DE PESQUISA EM ECONOMIA
+# 02 - MÉTODO DE PESQUISA EM ECONOMIA
 
 
 ## Objetivo da Aula
@@ -441,19 +440,19 @@ podendo se destacar os seguintes conceitos:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 10/05
+- **DIA:** 17/09
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 14/05
+- **DIA:** 17/09
 
-- **HORÁRIO:** 08:30h
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
@@ -461,7 +460,7 @@ Não deixe de participar do nosso próximo encontro:
 Até lá!
 
 
-# PREFERÊNCIAS DO CONSUMIDOR
+# 03 - PREFERÊNCIAS DO CONSUMIDOR
 
 
 ## Objetivo da Aula
@@ -510,19 +509,19 @@ podendo se destacar os conceitos:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 17/05
+- **DIA:** 24/09
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 21/05
+- **DIA:** 24/09
 
-- **HORÁRIO:** 08:30h
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
@@ -530,7 +529,7 @@ Não deixe de participar do nosso próximo encontro:
 Até lá!
 
 
-# FUNÇÕES UTILIDADE E ESCOLHA ÓTIMA
+# 04 - FUNÇÕES UTILIDADE E ESCOLHA ÓTIMA
 
 
 ## Objetivo da Aula
@@ -579,26 +578,26 @@ podendo se destacar os conceitos:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 24/05
+- **DIA:** 01/10
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 28/05
+- **DIA:** 01/10
 
-- **HORÁRIO:** 08:30h
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
 
 Até lá!
 
-# OTIMIZAÇÃO DA PRODUÇÃO (CURTO PRAZO)
+# 05 - OTIMIZAÇÃO DA PRODUÇÃO (CURTO PRAZO)
 
 
 ## Objetivo da Aula
@@ -642,26 +641,26 @@ podendo se destacar os conceitos:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 31/05
+- **DIA:** 08/10
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 04/06
+- **DIA:** 08/10
 
-- **HORÁRIO:** 08:30h
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
 
 Até lá!
 
-# OTIMIZAÇÃO DA PRODUÇÃO (LONGO PRAZO)
+# 06 - OTIMIZAÇÃO DA PRODUÇÃO (LONGO PRAZO)
 
 
 ## Objetivo da Aula
@@ -703,26 +702,26 @@ podendo se destacar os conceitos:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 07/06
+- **DIA:** 15/10
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 11/06
+- **DIA:** 15/10
 
-- **HORÁRIO:** 08:30h
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
 
 Até lá!
 
-# EQUILÍBRIO DE MERCADO
+# 07 - EQUILÍBRIO DE MERCADO
 
 
 ## Objetivo da Aula
@@ -771,19 +770,19 @@ podendo se destacar os conceitos:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 28/06
+- **DIA:** 29/10
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 02/07
+- **DIA:** 29/10
 
-- **HORÁRIO:** 08:30h
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
@@ -791,7 +790,7 @@ Não deixe de participar do nosso próximo encontro:
 Até lá!
 
 
-# AGREGADOS MACROECONÔMICOS (FLUXO CIRCULAR DA RENDA)
+# 08 - AGREGADOS MACROECONÔMICOS (FLUXO CIRCULAR DA RENDA)
 
 
 ## Objetivo da Aula
@@ -836,26 +835,26 @@ tema, podendo se destacar os conceitos:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 05/07
+- **DIA:** 05/11
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 09/07
+- **DIA:** 05/11
 
-- **HORÁRIO:** 08:30h
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
 
 Até lá!
  
-# AGREGADOS MACROECONÔMICOS (CONTABILIDADE SOCIAL)
+# 09 - AGREGADOS MACROECONÔMICOS (CONTABILIDADE SOCIAL)
 
 ## Objetivo da Aula
 
@@ -930,26 +929,26 @@ tema, podendo se destacar os conceitos:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 05/07
+- **DIA:** 12/11
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 09/07
+- **DIA:** 12/11
 
-- **HORÁRIO:** 08:30h
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
 
 Até lá!
 
-# TAXA DE INFLAÇÃO
+# 10 - TAXA DE INFLAÇÃO
 
 
 ## Objetivo da Aula
@@ -995,19 +994,19 @@ tema, podendo se destacar os conceitos:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 19/07
+- **DIA:** 19/11
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 23/07
+- **DIA:** 19/11
 
-- **HORÁRIO:** 08:30h
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
@@ -1015,7 +1014,7 @@ Não deixe de participar do nosso próximo encontro:
 Até lá!
 
 
-# TAXA DE JUROS
+# 11 - TAXA DE JUROS
 
 ## Objetivo da Aula
 
@@ -1057,26 +1056,26 @@ tema, podendo se destacar os conceitos:
 Não deixe de participar do nosso próximo encontro:
 
 
-**TURMA 01 (SEGUNDA-FEIRA)**
+**TURMA 03 (SEXTA-FEIRA)**
 
-- **DIA:** 26/07
+- **DIA:** 26/11
 
 - **HORÁRIO:** 08:30h
 
 - **LINK:** **https://meet.google.com/czn-zsys-hmo**
 
-**TURMA 07 (SEXTA-FEIRA)**
+**TURMA 04 (SEXTA-FEIRA)**
 
-- **DIA:** 
+- **DIA:** 26/11
 
-- **HORÁRIO:** 
+- **HORÁRIO:** 15:30h
 
 - **LINK:** **https://meet.google.com/ifw-rdkg-tis**
 
 
 Até lá!
 
-# TAXA DE CÂMBIO
+# 12 - TAXA DE CÂMBIO
 
 
 ## Objetivo da Aula
@@ -1120,7 +1119,30 @@ tema, podendo se destacar os conceitos:
 - [**SLIDES**](https://1drv.ms/p/s!At0yTgXpzJkLg45L6KQfIDEQP-0PwA?e=xzRgVz)
 
 
+## Próximo Encontro
 
+
+Não deixe de participar do nosso próximo encontro:
+
+
+**TURMA 03 (SEXTA-FEIRA)**
+
+- **DIA:** 03/12
+
+- **HORÁRIO:** 08:30h
+
+- **LINK:** **https://meet.google.com/czn-zsys-hmo**
+
+**TURMA 04 (SEXTA-FEIRA)**
+
+- **DIA:** 03/12
+
+- **HORÁRIO:** 15:30h
+
+- **LINK:** **https://meet.google.com/ifw-rdkg-tis**
+
+
+Até lá!
 
 
 
